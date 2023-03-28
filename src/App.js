@@ -47,11 +47,11 @@ const App = () => {
 
     const concatenatedArray = newconsolidatedtext.join(" ");
 
-    const response = await fetch('https://openaienv1.openai.azure.com/openai/deployments/textdavinci003/completions?api-version=2022-12-01', {
+    const response = await fetch('https://xxxxxxxx.openai.azure.com/openai/deployments/textdavinci003/completions?api-version=2022-12-01', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'api-key': '95e5f8d0f6e2463a8bf846a9f1552fc5'
+        'api-key': 'xxxxxxxxxxxxxxxxxxxxxxxxx'
       },
       body: JSON.stringify({
         "prompt": "Summarize the following text:\n\n" + concatenatedArray,
