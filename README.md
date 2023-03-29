@@ -1,3 +1,6 @@
+
+## Make sure you have a recent version of [Node.js](https://nodejs.org/en) installed.
+
 ## Clone this repository
 
 ### `git clone https://github.com/vinodramasubbu/OpenAISummarization.git`
