@@ -1,10 +1,10 @@
 Clone this repository
 
-### `git clone https://github.com/vinodramasubbu/OpenAISummarization.git`
+** `git clone https://github.com/vinodramasubbu/OpenAISummarization.git`
 
 open the project directory
 
-### `cd OpenAISummarization`
+** `cd OpenAISummarization`
 
 open /src/App.js and enter the Open AI urla nd API key
 
